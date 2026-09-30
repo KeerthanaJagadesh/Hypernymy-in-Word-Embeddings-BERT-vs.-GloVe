@@ -1,3 +1,0 @@
-model,pairs_covered,coverage_pct,true_sim_mean,true_sim_ci_lo,true_sim_ci_hi,random_sim_mean,random_sim_ci_lo,random_sim_ci_hi,t_stat,p_value,cohens_d,offset_consistency_mean,offset_consistency_std,n_degenerate_pairs
-BERT (contextual),514,100.0,0.508,0.495,0.522,0.426,0.415,0.436,9.06,7.267626462925465e-19,0.565,0.209,0.208,0
-GloVe (static),397,77.2,0.367,0.337,0.395,0.103,0.09,0.116,16.15,1.9313539527190413e-48,1.147,0.224,0.207,23
