@@ -3,6 +3,6 @@ A controlled comparison of a contextual embedding model (BERT) and a static embe
 
 HOW TO RUN IT?
 
-1. Click on the "Open in Colab" Link
+1. Click on the "Open in Colab" Link in AdvTopics_Term_Paper.ipynb
 2. Run the cells
 3. Observe the output
